@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: cyan;
+}
+
+h1{
+    color: darkmagenta;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    color: darkred;
+    font-family: monospace;
+}
+
+h3{
+    color: indigo;
+    font-family: fantasy;
+}
